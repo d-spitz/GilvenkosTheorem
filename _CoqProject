@@ -1,0 +1,5 @@
+-R . Lib
+GilvenkosTheorem.v
+ClassicalNaturalDeduction.v
+IntuitionisticNaturalDeduction.v
+PropositionalLogicExpressions.v
